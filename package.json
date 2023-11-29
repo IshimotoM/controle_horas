@@ -1,0 +1,28 @@
+{
+  "name": "controle_horas",
+  "version": "1.0.0",
+  "description": "App para controle de horas gastas em projetos, com relatorio.",
+  "main": "controle-horas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IshimotoM/controle_horas.git"
+  },
+  "keywords": [
+    "javascript",
+    "controle",
+    "horas"
+  ],
+  "author": "Bruno Manzini Silva Ishimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IshimotoM/controle_horas/issues"
+  },
+  "homepage": "https://github.com/IshimotoM/controle_horas#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
